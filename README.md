@@ -1,4 +1,4 @@
-# pythonicity: miscellaneous of useful and/or beautiful Python stuff
+# Welcome! This is an 
 ----
 
 
