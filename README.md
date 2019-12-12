@@ -13,7 +13,7 @@ You can also take a look at the results of your embedding compared to a clusteri
    - [Notebook](https://nbviewer.jupyter.org/github/fabridamicelli/pythonicity/blob/master/notebooks/interactiveEmbedding.ipynb)
    - [Example in browser](https://nbviewer.jupyter.org/github/fabridamicelli/pythonicity/blob/master/figs/interactiveEmbedding.html)
 
-![Alt Text](https://github.com/fabridamicelli/pythonicity/blob/master/figs/interactiveEmbedding_demo.gif)
+	![Alt Text](https://github.com/fabridamicelli/pythonicity/blob/master/figs/interactiveEmbedding_demo.gif)
 
 
 ----
