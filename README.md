@@ -9,9 +9,9 @@ Say you have a projection of your data in 2D and you want to give _a quick look_
 Then you might find it useful to plot it and interact with it by looking at the labels.
 You can also take a look at the results of your embedding compared to a clustering method (see demo below).
 
-- [Code](https://github.com/fabridamicelli/pythonicity/blob/master/code/interactive_embedding.py)
-- [Notebook](https://nbviewer.jupyter.org/github/fabridamicelli/pythonicity/blob/master/notebooks/interactiveEmbedding.ipynb)
-- [Example in browser](https://nbviewer.jupyter.org/github/fabridamicelli/pythonicity/blob/master/figs/interactiveEmbedding.html)
+   - [Code](https://github.com/fabridamicelli/pythonicity/blob/master/code/interactive_embedding.py)
+   - [Notebook](https://nbviewer.jupyter.org/github/fabridamicelli/pythonicity/blob/master/notebooks/interactiveEmbedding.ipynb)
+   - [Example in browser](https://nbviewer.jupyter.org/github/fabridamicelli/pythonicity/blob/master/figs/interactiveEmbedding.html)
 
 ![Alt Text](https://github.com/fabridamicelli/pythonicity/blob/master/figs/interactiveEmbedding_demo.gif)
 
