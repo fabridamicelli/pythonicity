@@ -14,7 +14,7 @@ Take a quick look at your 2D projected your data in 2D see if it makes any (huma
 
 	![Alt Text](https://github.com/fabridamicelli/pythonicity/blob/master/figs/interactiveEmbedding_demo.gif)
 
-3. Python Gotchas
+3. Python Gotchas <br/>
 The awesomeness of Python and its third party libraries comes with behaviours that sometimes make us chase silly bugs for hours. 
 [This](https://fabridamicelli.github.io/blog/python/numpy/2020/05/10/python-gotchas.html) is an ad eternum growing collection of those headaches. 
 
